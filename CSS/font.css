@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Calibri"
+}
+
+p {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+body {
+  font-size: 20px;
+}
+#one {
+  font-family: 'Saira Stencil One', cursive;
+  font-style: oblique;
+  font-size: 2.0em;
+}
+
+h1 {
+  text-align: center;
+}
